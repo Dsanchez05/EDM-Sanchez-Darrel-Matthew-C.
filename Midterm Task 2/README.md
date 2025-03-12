@@ -50,11 +50,10 @@ duplicate (Queries pane)
 - Rename the reference with “Sal By State ref”
 - To view dependencies and References of the QUERIES
 ## Step 3 Before
-![screenshot](/Midterm%20Task%201/Images/Before.png)
-![Screenshot 2025-03-13 010343](https://github.com/user-attachments/assets/03768004-8aba-4ee6-a6da-7c6080e24522)
+![Screenshot 2025-03-13 002333](https://github.com/user-attachments/assets/a0501413-a09e-4888-95bb-38468a89947f)
 
 ## Step 4 After
-![screenshot](/Midterm%20Task%201/Images/After.png)
+![Screenshot 2025-03-13 002333](https://github.com/user-attachments/assets/e2ae5476-53ad-448c-86a1-4f39518beedc)
 
 ## Here's the Physical Data Model
-![screenshot](/Midterm%20Task%201/Images/Relation.png)
+![Screenshot 2025-03-13 010343](https://github.com/user-attachments/assets/03768004-8aba-4ee6-a6da-7c6080e24522)
