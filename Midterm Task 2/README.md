@@ -50,7 +50,7 @@ duplicate (Queries pane)
 - Rename the reference with “Sal By State ref”
 - To view dependencies and References of the QUERIES
 ## Step 3 Before
-![Screenshot 2025-03-13 002333](https://github.com/user-attachments/assets/a0501413-a09e-4888-95bb-38468a89947f)
+![Screenshot 2025-03-13 001802](https://github.com/user-attachments/assets/cf660661-af3c-4a91-a8b9-783f8fb998be)
 
 ## Step 4 After
 ![Screenshot 2025-03-13 002333](https://github.com/user-attachments/assets/e2ae5476-53ad-448c-86a1-4f39518beedc)
