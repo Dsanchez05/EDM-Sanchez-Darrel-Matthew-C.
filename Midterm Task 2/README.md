@@ -51,6 +51,7 @@ duplicate (Queries pane)
 - To view dependencies and References of the QUERIES
 ## Step 3 Before
 ![screenshot](/Midterm%20Task%201/Images/Before.png)
+![Screenshot 2025-03-13 010343](https://github.com/user-attachments/assets/03768004-8aba-4ee6-a6da-7c6080e24522)
 
 ## Step 4 After
 ![screenshot](/Midterm%20Task%201/Images/After.png)
