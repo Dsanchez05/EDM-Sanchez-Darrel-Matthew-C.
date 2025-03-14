@@ -12,10 +12,11 @@ In this activity, we cleaned an excel sheet fill of errors and redundancy using 
 - Perform 3NF
 - Mapped the Normalized Tables as a Physical Data Model
 ## Step 3 Before
-![screenshot](/Midterm%20Task%201/Images/Before.png)
+![Before](https://github.com/user-attachments/assets/c3bb422f-0d07-41a4-b222-64cd710bb8d6)
 
 ## Step 4 After
-![screenshot](/Midterm%20Task%201/Images/After.png)
+![After](https://github.com/user-attachments/assets/7ee0f40e-0ad5-4924-85c3-d138aa252398)
 
 ## Here's the Physical Data Model
-![screenshot](/Midterm%20Task%201/Images/Relation.png)
+![Relation](https://github.com/user-attachments/assets/96e7400f-7e3f-4bbe-8798-e4dc7513cd3b)
+
