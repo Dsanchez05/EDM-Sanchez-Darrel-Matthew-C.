@@ -7,5 +7,5 @@ Hello, my name is Darrel Matthew C. Sanchez, and i'm currently taking my first y
 - Highschool: Angeles City National High School 
 - Elementary: Lourdes North West Elementary School
 # My Projects
-- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/Dsanchez05/EDM-Sanchez-Darrel-Matthew-C./tree/main/Midterm%20Task%201)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://dsanchez05.github.io/Midterm-Lab-Task-1/)
 - Midterm Lab Task 2  [Data Cleaning and Preparation using Power Query](https://github.com/Dsanchez05/EDM-Sanchez-Darrel-Matthew-C./tree/main/Midterm%20Task%202))
