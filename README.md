@@ -1,5 +1,7 @@
 # EDM-Portfolio Sanchez Darrel Matthew C.
 This portfolio will contain copies of my Enterprise Data Management Lab Projects.
+[Link to My Main Portfolio](https://dsanchez05.github.io/EDM-Sanchez-Darrel-Matthew-C./)
+
 # About Me
 Hello, my name is Darrel Matthew C. Sanchez, and i'm currently taking my first year BSIS in City College of Angeles.
 # Education
