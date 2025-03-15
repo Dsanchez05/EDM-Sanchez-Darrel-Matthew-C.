@@ -1,5 +1,5 @@
 # EDM-Portfolio Sanchez Darrel Matthew C.
-This portfolio will contain copies of my Enterprise Data Management Lab Projects.
+This portfolio will contain copies of my Enterprise Data Management Lab Projects.<br>
 [Link to My Main Portfolio](https://dsanchez05.github.io/EDM-Sanchez-Darrel-Matthew-C./)
 
 # About Me
