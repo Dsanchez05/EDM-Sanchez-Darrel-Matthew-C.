@@ -20,4 +20,5 @@ Hello, my name is Darrel Matthew C. Sanchez, and i'm currently taking my first y
 - Final Lab Task 1: [MySQL Basics](https://dsanchez05.github.io/Finals-Lab-Task-1-MySQL-Basics/)
 - Final Lab Task 2: [Transforming ER Model to Relational Tables](https://dsanchez05.github.io/Finals-Lab-Task-2-Transform-ER-into-Relational-tables/)
 - Final Lab Task 3: [Table Manipulation](https://dsanchez05.github.io/Finals-Lab-Task-3-Table-Manipulation/)
-- Finals Lab Task 3-1: [Using MYSQL Clause](https://dsanchez05.github.io/Finals-Lab-Task-3-1-Using-MYSQL-CLAUSE/)
+- Finals Lab Task 4: [Using MYSQL Clause](https://dsanchez05.github.io/Finals-Lab-Task-3-1-Using-MYSQL-CLAUSE/)
+- Finals Lab Task 5: [Using SQL views and Stored Procedures and Stored Functions](https://dsanchez05.github.io/Finals-Lab-Task-5-Using-SQL-views-and-Stored-Procedures-and-Stored-Functions/)
